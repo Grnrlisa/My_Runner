@@ -3,6 +3,8 @@ C graphical project - a simple runner game.
 
 First semester of first year at Epitech: the goal of the project is to re-create a game in C with the CSFML library using the gameplay of Geometry Dash.
 
+Map generated from a text file.
+
 Project completed in 4 weeks.
 
 Compile with make command. Require the CSFML library.
